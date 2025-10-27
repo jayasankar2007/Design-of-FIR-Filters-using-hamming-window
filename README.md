@@ -1,5 +1,3 @@
-<img width="765" height="550" alt="image" src="https://github.com/user-attachments/assets/3d32c8b0-70fd-4015-b6f3-8fb1a1328464" /># Design-of-FIR-Filters-using-hamming-window
-
 # DESIGN OF LOW PASS FIR DIGITAL FILTER 
 
 # AIM: 
