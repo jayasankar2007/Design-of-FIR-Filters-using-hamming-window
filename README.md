@@ -104,6 +104,7 @@ title('Phase Response');
 # OUTPUT
 # Low Pass FIR Filter
 <img width="763" height="659" alt="image" src="https://github.com/user-attachments/assets/9499eead-3b02-4150-9a9d-904428111683" />
+
 # High Pass FIR Filter
 <img width="762" height="606" alt="image" src="https://github.com/user-attachments/assets/0c892ffd-96fd-4b3e-b386-e847bd642ba5" />
 
