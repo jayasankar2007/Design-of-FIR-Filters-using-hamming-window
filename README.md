@@ -3,7 +3,7 @@
 # DESIGN OF LOW PASS AND HIGH PASS FIR DIGITAL FILTER 
 
 # AIM: 
-          
+
   To generate design of high pass FIR digital filter using SCILAB 
 
 # APPARATUS REQUIRED: 
